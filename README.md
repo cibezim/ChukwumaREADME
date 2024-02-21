@@ -19,3 +19,7 @@ As a software engineer, my goal is to leverage my diverse skill set and backgrou
 
 ## Favorite Artists
 Music is a constant companion in my life, and I have a diverse taste that spans across genres. Some of my favorite artists include Dave from the U.K., Central Cee, J. Cole, A Boogie, and Burna Boy. Their music resonates with me on different levels, whether it's through their poignant lyrics, captivating beats, or thought-provoking messages.
+
+## LinkedIn 
+[Connect with me on LinkedIn](https://www.linkedin.com/in/chukwumaibezim/)
+
