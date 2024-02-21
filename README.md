@@ -10,6 +10,8 @@ When I'm not crunching numbers or diving into financial analyses, you'll often f
 
 Traveling is another passion of mine. Exploring new places, experiencing different cultures, and savoring diverse cuisines is truly enriching.
 
+![Snowfall](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FSnowfall-Season-3%2Fdp%2FB07SNG75F1&psig=AOvVaw3wFvquAQbeFEcE3hh_6nKq&ust=1708635533452000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDG_MGpvYQDFQAAAAAdAAAAABAE)
+
 ## Dreams and Aspirations
 While my childhood dream of becoming a lawyer ignited a passion for justice and advocacy, my career journey has led me down an exciting path towards the world of technology. Transitioning from the legal realm, I found myself drawn to the dynamic field of software engineering.
 
