@@ -3,7 +3,7 @@
 Welcome to Chukwuma's World
 
 ## About Me
-![Brooklyn Bridge](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Brooklyn_Bridge_WS.jpg/800px-Brooklyn_Bridge_WS.jpg)
+![Brooklyn Bridge](https://media4.giphy.com/media/DOEXrsUpJ6IIP0GfM9/200.gif?cid=6104955enoqzvst5iqhm3h1wpje5919uesax36r0lyv5c6wi&ep=v1_gifs_translate&rid=200.gif&ct=g)
 
 
 Hello there! I'm Chukwuma Ibezim, hailing from the vibrant city of Brooklyn. With a background in financial services, particularly at Capital One, I've always been fascinated by the intricacies of the financial world. My roots trace back to Nigeria, blending seamlessly with my African American identity, shaping a unique cultural perspective.
