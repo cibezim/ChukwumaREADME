@@ -22,6 +22,8 @@ Exploring the realms of coding, I have dabbled in various programming languages 
 
 As a software engineer, my goal is to leverage my diverse skill set and background in financial services to develop cutting-edge applications, streamline processes, and drive impactful change in the digital landscape. I am committed to continuous learning, growth, and making meaningful contributions to the tech community.
 
+![Software Engineer](https://www.simplilearn.com/ice9/free_resources_article_thumb/The-Five-Phases-of-Ethical-Hacking.jpg)
+
 ## Favorite Artists
 Music is a constant companion in my life, and I have a diverse taste that spans across genres such as R&B, Hip-Hop, Afrobeats, Socca, and Dancehall. Some of my favorite artists include:
 
