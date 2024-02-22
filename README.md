@@ -3,6 +3,9 @@
 Welcome to Chukwuma's World
 
 ## About Me
+![Brooklyn Bridge](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Brooklyn_Bridge_WS.jpg/800px-Brooklyn_Bridge_WS.jpg)
+
+
 Hello there! I'm Chukwuma Ibezim, hailing from the vibrant city of Brooklyn. With a background in financial services, particularly at Capital One, I've always been fascinated by the intricacies of the financial world. My roots trace back to Nigeria, blending seamlessly with my African American identity, shaping a unique cultural perspective.
 
 ## Interests
@@ -18,7 +21,24 @@ Exploring the realms of coding, I have dabbled in various programming languages 
 As a software engineer, my goal is to leverage my diverse skill set and background in financial services to develop cutting-edge applications, streamline processes, and drive impactful change in the digital landscape. I am committed to continuous learning, growth, and making meaningful contributions to the tech community.
 
 ## Favorite Artists
-Music is a constant companion in my life, and I have a diverse taste that spans across genres. Some of my favorite artists include Dave from the U.K., Central Cee, J. Cole, A Boogie, and Burna Boy. Their music resonates with me on different levels, whether it's through their poignant lyrics, captivating beats, or thought-provoking messages.
+Music is a constant companion in my life, and I have a diverse taste that spans across genres such as R&B, Hip-Hop, Afrobeats, Socca, and Dancehall. Some of my favorite artists include:
+
+- Dave 
+- Central Cee
+- J. Cole
+- A Boogie
+- Burna Boy
+- Jay Z
+- Nas
+- Asake
+- Bryson Tiller
+- Bizzy Banks
+- Polo G
+
+Their music resonates with me on different levels.
+
+## Learning Style
+When it comes to learning, I prefer a hands-on approach combined with visual aids. I find that watching instructional videos and engaging in practical, hands-on activities help me grasp concepts more effectively. This approach allows me to visualize complex ideas and immediately apply them in real-world scenarios, enhancing my understanding and retention of the material.
 
 ## LinkedIn 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/chukwumaibezim/)
