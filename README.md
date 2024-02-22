@@ -27,9 +27,9 @@ As a software engineer, my goal is to leverage my diverse skill set and backgrou
 ## Favorite Artists
 Music is a constant companion in my life, and I have a diverse taste that spans across genres such as R&B, Hip-Hop, Afrobeats, Socca, and Dancehall. Some of my favorite artists include:
 
-- Dave 
-- Central Cee
 - J. Cole
+- Central Cee
+- Dave
 - A Boogie
 - Burna Boy
 - Jay Z
@@ -40,6 +40,8 @@ Music is a constant companion in my life, and I have a diverse taste that spans 
 - Polo G
 
 Their music resonates with me on different levels.
+
+![J. Cole](https://upload.wikimedia.org/wikipedia/en/2/2a/2014ForestHillsDrive.jpg)
 
 ## Learning Style
 When it comes to learning, I prefer a hands-on approach combined with visual aids. I find that watching instructional videos and engaging in practical, hands-on activities help me grasp concepts more effectively. This approach allows me to visualize complex ideas and immediately apply them in real-world scenarios, enhancing my understanding and retention of the material.
